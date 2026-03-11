@@ -1,0 +1,5 @@
+{
+  "name": "SAP Intelligent Finance Chatbot",
+  "description": "A unified digital workspace for SAP financial operations, automating tasks like bank reconciliation, invoice processing, and real-time reporting.",
+  "requestFramePermissions": []
+}
